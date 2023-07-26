@@ -1,0 +1,54 @@
+.container{
+  font-size: 30px;
+  display: flex;
+  flex-direction: column;
+  padding: 130px;
+
+}
+
+.selectContainer{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+ 
+  
+}
+.result{
+  font-size: 48px;
+  color: rgb(8, 237, 253);
+  border:orange solid 2px;
+  border-radius: 30px;
+  padding: 20px;
+  width: 100%;
+}
+.button  {
+    padding: 10px 20px;
+    display: block;
+    margin: 100px auto 0;
+    font-size: 23px;
+  
+    border: #59bab2 solid 4px;
+    width: 300px;
+    height: 70px;
+    border-radius: 30px;
+    background-color:white;
+
+    outline: none;
+   
+    color: black;
+  
+  }
+  .button:hover{
+    background-color:rgba(190, 161, 17);
+    color: white;
+  }
+  .numberOfQuestions{
+    color: rgb(248, 140, 58);
+  }
+  .difficulty{
+    color: rgb(244, 228, 108);
+  }
+  .category{
+    color: rgb(69, 245, 221);
+  }

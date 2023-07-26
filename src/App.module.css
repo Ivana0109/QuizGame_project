@@ -1,0 +1,20 @@
+body{
+  background-image: url("../public/game.jpg");
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  margin: 0;
+}
+.container
+{
+  background-color: rgb(0, 0, 0,0.7);
+  color: white;
+padding: 20px;
+border-radius: 30px;
+width: 1100px;
+height: 850px;
+
+}

@@ -1,0 +1,28 @@
+.container{
+  display: flex;
+  flex-direction: column;
+ padding: 30px;
+  align-items: center;
+  justify-content: center;
+}
+.select  {
+    padding: 10px 20px;
+    display: block;
+   
+    font-size: 23px;
+  
+    border: #59bab2 solid 4px;
+    width: 300px;
+    height: 70px;
+    border-radius: 30px;
+    background-color:white;
+
+    outline: none;
+   
+    color: black;
+  
+  }
+  .select:hover{
+    background-color:rgba(190, 161, 17, 0.7);
+    color: white;
+  }
