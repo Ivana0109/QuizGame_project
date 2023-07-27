@@ -1,6 +1,6 @@
 # Preview link:
 
-## https://ivana0109.github.io/Checkout_project/
+## https://ivana0109.github.io/QuizGame_project/
 
 
 
