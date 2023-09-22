@@ -1,21 +1,20 @@
 .container{
-    font-size: 30px;
+  font-size: 20px;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   gap: 30px;
-  padding: 20px
+  padding: 10px
 }
 .button  {
     padding: 10px 20px;
     display: block;
     margin: 100px auto 0;
-    font-size: 23px;
-  
+    font-size: 18px;
     border: #59bab2 solid 4px;
-    width: 300px;
-    height: 70px;
+    width: 285px;
+    height: 60px;
     border-radius: 30px;
     background-color:rgb(225, 184, 48);
 
@@ -25,19 +24,18 @@
   
   }
  .answersContainer{
-    display: flex;
-    flex-direction: column;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+    
     gap: 30px;
  } 
 .answer {
-    padding: 10px 20px;
-    display: block;
-  
-    font-size: 23px;
-  
+ 
+  font-size: 16px;
     border: #59bab2 solid 5px;
-    width: 300px;
-    height: 70px;
+    width: 292px;
+    height: 66px;
     border-radius: 30px;
     background-color:white;
 
@@ -53,13 +51,13 @@
     color: rgb(69, 245, 221);
     border:orange solid 2px;
     border-radius: 30px;
-    padding: 20px;
+    padding: 10px;
     width: 100%;
   }
   .question{
     color: rgb(215, 120, 232);
     border:orange solid 2px;
     border-radius: 30px;
-    padding: 20px;
+    padding: 10px;
     width: 100%;
   }
