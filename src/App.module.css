@@ -17,3 +17,9 @@ body{
     padding: 27px;
     width: 657px;
 }
+@media only screen and (max-width: 1200px) {
+  .container
+  {height: 745px;
+    padding: 27px;
+    width: 373px;}
+}
