@@ -13,13 +13,13 @@ body{
   background-color: rgb(0, 0, 0,0.7);
   color: white;
   border-radius: 30px;
-  height: 560px;
+  height: 460px;
     padding: 27px;
     width: 657px;
 }
 @media only screen and (max-width: 1200px) {
   .container
-  {height: 745px;
-    padding: 27px;
+  {height: 545px;
+  
     width: 373px;}
 }
